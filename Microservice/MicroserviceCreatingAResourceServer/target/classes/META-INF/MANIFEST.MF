@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 15
+Implementation-Title: 09.Microservices-Creating-A-Resource-Server-And-Ro
+ uting-Tokens-To-Services
+Implementation-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
