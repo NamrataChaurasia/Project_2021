@@ -1,0 +1,425 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-02-20T07:16:20.463Z",
+        "line": 3,
+        "name": "description checking scenario",
+        "description": "",
+        "id": "description-feature;description-checking-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user is on home page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "user click on shop",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 997700,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user clicks on home",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user is on arrival page",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 996900,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "each image should be clickable and navigable",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 997200,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "user is on description page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Description"
+          }
+        ]
+      }
+    ],
+    "name": "Description Feature",
+    "description": "",
+    "id": "description-feature",
+    "keyword": "Feature",
+    "uri": "file:features/Description.feature",
+    "tags": [
+      {
+        "name": "@Description",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-02-20T07:16:20.601Z",
+        "line": 3,
+        "name": "image checking scenario",
+        "description": "",
+        "id": "image-feature;image-checking-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user is on home page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 998100,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "user clicks on shop",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 996500,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "click on home",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 997500,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user is on arrival page",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "each image should be clickable and navigable",
+            "match": {},
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Image"
+          }
+        ]
+      }
+    ],
+    "name": "Image Feature",
+    "description": "",
+    "id": "image-feature",
+    "keyword": "Feature",
+    "uri": "file:features/image.feature",
+    "tags": [
+      {
+        "name": "@Image",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-02-20T07:16:20.622Z",
+        "line": 3,
+        "name": "positive login scenario",
+        "description": "",
+        "id": "login-feature;positive-login-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user is on home page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "user clicks on shop",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 996800,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user clicks on home",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user is on slider page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Login"
+          }
+        ]
+      }
+    ],
+    "name": "Login Feature",
+    "description": "",
+    "id": "login-feature",
+    "keyword": "Feature",
+    "uri": "file:features/login.feature",
+    "tags": [
+      {
+        "name": "@Login",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-02-20T07:16:20.638Z",
+        "line": 3,
+        "name": "review checking scenario",
+        "description": "",
+        "id": "review-feature;review-checking-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user is on home page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "user clicks on shop",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user clicks on home",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user is on arrival page",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "each image should be clickable and navigable",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 996700,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "user is on description page",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 997100,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user clicks on review button",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Review"
+          }
+        ]
+      }
+    ],
+    "name": "Review Feature",
+    "description": "",
+    "id": "review-feature",
+    "keyword": "Feature",
+    "uri": "file:features/reviews.feature",
+    "tags": [
+      {
+        "name": "@Review",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-02-20T07:16:20.662Z",
+        "line": 3,
+        "name": "Home page must contains only three sliders",
+        "description": "",
+        "id": "three-sliders-feature;home-page-must-contains-only-three-sliders",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user opens the browser",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "user enter the URL http://practice.automationtesting.in/",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "click on Shop Menu",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "click on Home menu button",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Slides"
+          }
+        ]
+      }
+    ],
+    "name": "Three Sliders Feature",
+    "description": "",
+    "id": "three-sliders-feature",
+    "keyword": "Feature",
+    "uri": "file:features/slides.feature",
+    "tags": [
+      {
+        "name": "@Slides",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
